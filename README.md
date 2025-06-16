@@ -4,7 +4,7 @@ This project explores deep learning-based perception for low-cost robots using l
 
 ## Goals
 - Object detection and gesture recognition with MobileNet, Tiny YOLO
-- On-device inference on Raspberry Pi, Jetson Nano
+- On-device inference on Raspberry Pi
 - Sensor and motor control via ESP32
 - ROS 2 simulation and deployment
 
@@ -16,12 +16,12 @@ This project explores deep learning-based perception for low-cost robots using l
 
 ## Hardware Used
 - ESP32-CAM
-- Raspberry Pi 4 / Jetson Nano
+- Raspberry Pi 4 
 - Pi Camera
 - IR/Ultrasonic sensors
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourusername/perceptive-robotics.git
+git clone https://github.com/AchiengMary/perceptive-robot.git
 cd perceptive-robotics
 bash setup.sh
