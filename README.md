@@ -23,5 +23,5 @@ This project explores deep learning-based perception for low-cost robots using l
 ## Quick Start
 ```bash
 git clone https://github.com/AchiengMary/perceptive-robot.git
-cd perceptive-robotics
+cd perceptive-robot
 bash setup.sh
